@@ -56,3 +56,33 @@ Figma streamlines the wireframing process by combining ease of use, collaboratio
 
 ✅ **Focuses on Functionality and User Experience**
 - By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+# Real-World Scenario: Wireframing in a Banking Mobile App
+
+A mid-sized fintech company was developing a mobile banking app aimed at simplifying how users manage their accounts, make transactions, and track spending. Before any code was written, the design team created wireframes to outline the app’s structure and key user flows—such as logging in, transferring money, and checking balances.
+
+## Identified Usability Issues
+
+During wireframing, the team conducted user feedback sessions using low-fidelity wireframes. Several usability issues were quickly identified:
+
+- **Overwhelming Dashboard**: The initial dashboard layout tried to show too much information (e.g., recent transactions, account summary, credit card info, and promotional banners) on a single screen. Users found it cluttered and confusing.
+
+- **Unclear Transfer Flow**: The money transfer process involved too many steps and lacked clear labels, which made it difficult for users to understand how to complete a transfer.
+
+- **Small Tap Targets**: On the wireframes, icons and buttons were too close together, which would have been difficult for users on smaller screens or with accessibility needs.
+
+## Resolution of Issues
+
+- **Dashboard Simplification**: The team prioritized information display by restructuring the layout into collapsible cards and using a tabbed interface. This reduced cognitive load and made navigation smoother.
+
+- **Streamlined Flow**: The transfer process was redesigned into a guided, three-step flow with clear CTAs (“Enter Amount,” “Choose Recipient,” “Confirm”), which improved task completion rates in usability tests.
+
+- **Improved Accessibility**: Wireframes were adjusted to increase the size and spacing of interactive elements, aligning with accessibility best practices.
+
+## Impact on Final Product
+
+These early fixes prevented costly reworks during development. By validating user needs through wireframing, the team delivered an app that was intuitive and easy to navigate. User satisfaction scores post-launch were notably high, and support tickets related to navigation dropped by 40% compared to the company’s previous version of the app.
+
+## Conclusion
+
+Wireframing played a critical role in identifying and resolving usability issues before development began. It enabled quick, low-cost iterations and ensured user feedback guided design decisions. Ultimately, wireframing helped create a more user-friendly product, reinforcing its value as a foundational step in the design process.
